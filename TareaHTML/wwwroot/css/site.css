@@ -1,0 +1,46 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.seccion-bienvenida {
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.bg-red {
+    background-color: #EF1F1F;
+}
+
+.texto {
+    float: right;
+    margin-right: 650px;
+}
+
+.texto2 {
+    float: left;
+    margin-left: 700px;
+}
+
+.imagen {
+    width: 350px;
+}
+
+.imagen2 {
+    width: 350px;
+    margin-left: 700px;
+}
